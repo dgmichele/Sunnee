@@ -1,5 +1,5 @@
 <h1>Sunnee</h1>
-<p>Questo progetto è un sistema sviluppato in TypeScript che modella la struttura operativa di un brand di beachwear sostenibile, basato su plastica riciclata. Simula le interazioni tra clienti, prodotti beachwear e processi di produzione sostenibile.</p>
+<p>Questo progetto è un sistema sviluppato in TypeScript che modella la struttura operativa di Sunnee, un brand fittizio di beachwear sostenibile, basato su plastica riciclata. Simula le interazioni tra clienti, prodotti beachwear e processi di produzione sostenibile.</p>
 <h2>Funzionalità 🛠️</h2>
 <p>Il progetto permette di simulare la struttura operativa dell’azienda, come ad esempio:</p>
 <ul>
