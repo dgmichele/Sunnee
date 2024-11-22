@@ -28,7 +28,7 @@ class Prodotto implements IProdotto {
     taglia: string | number;
     colore: string;
     stato: "disponibile" | "esaurito";
-    cliente?: ICliente; // Opzionale
+    cliente?: ICliente; // Opzionale: un prodotto appena creato non ha un cliente associato in automatico
 
     constructor(tipo: string, id: string | number, taglia: string | number, colore: string) {
         this.tipo = tipo;
