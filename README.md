@@ -12,7 +12,7 @@
 <ol>
     <li>Interfacce: Esse vanno a definire la struttura dati del sistema</li>
     <li>Classi: Implementano i dati e i metodi delle interfacce per dare vita alla simulazione della struttura aziendale.</li>
-    <li>Istanze e Test: Si creano alcuni oggetti Prodotto, Cliente e Processo di produzione fittizzi per verificare il corretto funzionamento del sistema, dalla produzione di un nuovo prodotto, all’acquisto di quest’ultimo da parte dei clienti.</li>
+    <li>Istanze e Test: Si creano alcuni oggetti Prodotto, Cliente e Processo di produzione fittizi per verificare il corretto funzionamento del sistema, dalla produzione di un nuovo prodotto, all’acquisto di quest’ultimo da parte dei clienti.</li>
 </ol>
 <h2>Installazione e configurazione 💻</h2>
 <ol>
