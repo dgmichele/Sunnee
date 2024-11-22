@@ -23,7 +23,7 @@
             <code>git clone https://github.com/dgmichele/Sunnee.git</code>
         </li>
         <li>
-            <code>cd il-tuo-progetto (inserisci il nome della cartella su cui lavori in VS Code dopo "cdcd")</code>
+            <code>cd il-tuo-progetto (inserisci il nome della cartella su cui lavori in VS Code dopo "cd")</code>
         </li>
     </ul>
     </li>
