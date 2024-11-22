@@ -18,8 +18,14 @@
 <ol>
     <li>
     <strong>Clonare il repository:</strong><br>
-    <code>git clone https://github.com/dgmichele/Sunnee.git</code><br>
-    <code>cd il-tuo-progetto (inserisci il nome della cartella su cui lavori in VS Code dopo "cdcd")</code>
+    <ul>
+        <li>
+            <code>git clone https://github.com/dgmichele/Sunnee.git</code>
+        </li>
+        <li>
+            <code>cd il-tuo-progetto (inserisci il nome della cartella su cui lavori in VS Code dopo "cdcd")</code>
+        </li>
+    </ul>
     </li>
     <li>
     <strong>Installare le dipendenze:</strong><br>
